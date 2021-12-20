@@ -24,3 +24,6 @@ As you will see, the file structure has been organized using the recommended fea
 - React
 - Redux
 
+## SetUp
+To run this project locally, install react-redux inside the project folder
+
